@@ -10,15 +10,49 @@ I specialise in end-user support, incident management, service delivery, stakeho
 
 ---
 
+## Featured Projects
+
+### [Incident Management Playbook](https://github.com/Tolsty593/incident-management-playbook)
+Processes and templates for handling major incidents from detection to review.
+
+- Major incident process
+- Escalation guide
+- Communication templates
+- Root cause analysis template
+- Post-incident review template
+
+### [PowerShell Support Toolkit](https://github.com/Tolsty593/powershell-support-toolkit)
+Read-only PowerShell scripts for first-line diagnostics on Windows.
+
+- `Get-SystemHealth.ps1` - uptime, memory, disk space, stopped services and recent errors in one report
+- `Get-InstalledSoftware.ps1` - installed software inventory, with export to CSV
+- `Export-EventLogs.ps1` - exports recent event log entries to attach to a ticket
+- `Network-Diagnostics.ps1` - adapter, gateway, internet, DNS and port checks with a likely cause
+- User support checklist - a troubleshooting workflow from first contact to closure
+
+### [AI Adoption Playbook](https://github.com/Tolsty593/ai-adoption-playbook)
+Guidance for introducing AI tools to teams and helping users get started.
+
+- Adoption framework
+- Getting started guide
+- Prompt engineering basics
+- AI best practices
+- Common user questions
+
+---
+
 ## Key Achievements
 
 ### Enterprise Support
-- Supported business-critical technology services across multiple industries
+- Supported a global user base of 6,000 people
+- Worked in support teams handling a constant flow of incidents, typically 400 to 800 tickets a week, across the banking and education sectors
+- Supported every level of the business, from lift engineers and cleaning staff to CEOs
 - Managed high-priority incidents and escalations
-- Coordinated technical teams and stakeholders during service disruptions
 
-### Service Delivery
-- Delivered operational improvements that increased service efficiency
+### Team Leadership and Service Delivery
+- Managed a team of up to eight engineers at Christie's
+- Worked in end-user computing support teams of 4 to 12 engineers
+- Coordinated technical teams and stakeholders during service disruptions
 - Improved communication between technical and business teams
 - Enhanced customer experience through structured support processes
 
@@ -37,6 +71,11 @@ I specialise in end-user support, incident management, service delivery, stakeho
 - Change Management
 - Service Delivery
 - Root Cause Analysis
+
+### Service Desk Tools
+- ServiceNow
+- BMC Remedy
+- Bespoke ticketing systems
 
 ### Support Technologies
 - Microsoft 365
@@ -59,19 +98,6 @@ I specialise in end-user support, incident management, service delivery, stakeho
 
 ---
 
-## Featured Projects
-
-### Incident Management Playbook
-A collection of incident response processes, RCA templates, and escalation procedures.
-
-### AI Adoption Playbook
-Guidance on AI onboarding, prompt engineering, and user enablement.
-
-### PowerShell Support Toolkit
-Automation tools designed to improve diagnostics and support efficiency.
-
----
-
 ## Professional Interests
 
 - Support Engineering
@@ -80,13 +106,10 @@ Automation tools designed to improve diagnostics and support efficiency.
 - Process Optimisation
 - Automation
 
+---
+
 ## Connect With Me
-Linkedin.com: www.linkedin.com/in/gladwyn-dennis-a14b0538
-GitHub: https://github.com/Tolsty593/Gladwyn-support-engineer-portfolio/edit/main/README.md
-Location: London, United Kingdom
 
-Next Steps
-Paste the text into the editor.
-Click "Commit changes..." (top right).
-Click "Commit changes" again in the pop-up.
-
+- LinkedIn: [linkedin.com/in/gladwyn-dennis-a14b0538](https://www.linkedin.com/in/gladwyn-dennis-a14b0538)
+- GitHub: [github.com/Tolsty593](https://github.com/Tolsty593)
+- Location: London, United Kingdom
