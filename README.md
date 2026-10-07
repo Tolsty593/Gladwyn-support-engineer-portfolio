@@ -1,10 +1,10 @@
-# Gladwyn | Support Engineer Portfolio
+# Gladwyn Dennis | Support Engineering Portfolio
 
-Support Engineer | Service Delivery Professional | AI & Automation Enthusiast
+Enterprise Device Management Architect | End User Computing | Service Delivery | AI Adoption
 
 ## Professional Summary
 
-Delivery-focused IT professional with extensive experience supporting complex technology services across financial services, public sector, media, and enterprise environments.
+Enterprise Device Management Architect and End User Computing consultant with 20+ years delivering endpoint modernisation, technical support operations and service delivery for financial services, telecom, education, media and public sector organisations.
 
 I specialise in end-user support, incident management, service delivery, stakeholder engagement, and operational improvement. My focus is on solving technical problems, improving customer experiences, and helping organisations adopt new technologies effectively.
 
@@ -44,13 +44,15 @@ Guidance for introducing AI tools to teams and helping users get started.
 ## Key Achievements
 
 ### Enterprise Support
-- Supported a global user base of 6,000 people
+- Supported 6,000+ users across the UK, mainland Europe and Dubai at Christie's
 - Worked in support teams handling a constant flow of incidents, typically 400 to 800 tickets a week, across the banking and education sectors
 - Supported every level of the business, from lift engineers and cleaning staff to CEOs
 - Managed high-priority incidents and escalations
 
 ### Team Leadership and Service Delivery
 - Managed a team of up to eight engineers at Christie's
+- Managed the service desk team across four academy sites supporting 2,600 users at Mossbourne Federation
+- Led a team of 15 engineers through the relocation and migration of 5,000+ users to Canary Wharf for Barclays
 - Worked in end-user computing support teams of 4 to 12 engineers
 - Coordinated technical teams and stakeholders during service disruptions
 - Improved communication between technical and business teams
@@ -77,6 +79,12 @@ Guidance for introducing AI tools to teams and helping users get started.
 - BMC Remedy
 - Bespoke ticketing systems
 
+### Endpoint Management
+- Microsoft Intune
+- SCCM / MECM
+- Azure Virtual Desktop
+- Jamf Pro
+
 ### Support Technologies
 - Microsoft 365
 - Windows Administration
@@ -87,7 +95,8 @@ Guidance for introducing AI tools to teams and helping users get started.
 
 ### Automation
 - PowerShell
-- Python
+- VBA
+- SQL
 - Process Automation
 
 ### Emerging Technologies
